@@ -1,0 +1,40 @@
+Question: tell me about banana
+Answer: Bananas come in various varieties, some used for cooking and others as fruit. One important fruit variety is Karpoora Chekkerakeli, which grows up to about 2.5-3 meters in height and is prone to falling due to winds. To support banana plants in windy areas, stakes made of bamboo can be used. For increasing soil fertility, cutting banana trees into small pieces after harvest helps them dry quickly, decompose, and enrich the soil. Covering bunches with 2% perforated white transparent polythene bags can enhance fruit size and appearance, making them suitable for export. Additionally, intercropping leafy vegetables, cabbage, cauliflower, or maize between banana rows can provide extra income. A method called macro-propagation can be used to produce disease-free, high-yielding banana plants quickly by selecting suckers from high-quality banana mother plants and treating them with specific techniques and solutions.
+--------------------------------------------------
+Question: who hold 1st rank for the banana yield
+Answer: The document does not provide information about which country or entity holds the first rank for banana yield.
+--------------------------------------------------
+Question: which country holds hightest banana yield
+Answer: India holds the highest banana yield, ranking first in the world in both the area and yield of banana cultivation.
+--------------------------------------------------
+Question: can you say AndhraPradesh production for banana 
+Answer: In Andhra Pradesh, banana is cultivated in approximately 99,372 hectares with a production of 5.8 million tonnes.
+--------------------------------------------------
+Question: can you say more about Macro-Propagation Method
+Answer: The Macro-Propagation Method involves producing disease-free, high-yielding banana plants in a short time by selecting 6-month-old mature banana suckers. The process includes removing the tissue from the center of the suckers (2 cm deep) and making 6 to 8 vertical and horizontal cuts with a knife. These prepared suckers are then planted in a mixture of sawdust, Mycorrhiza (AMF), Bacillus subtilis, and a B.A.P 0.04% solution.
+--------------------------------------------------
+Question: can you say how much fertilizers require for the heavy soil for banana
+Answer: For heavy soil, the recommended dose of fertilizers per banana plant for green banana varieties through drip irrigation is as follows:
+
+- Urea: 4.0 grams from the 3rd week to the 6th week (applied once every three days)
+- Muriate of Potash: 3.0 grams from the 3rd week to the 6th week (applied once every three days)
+- Urea: 4.7 grams from the 7th week to the 14th week (applied once every three days)
+- Muriate of Potash: 4.0 grams from the 7th week to the 14th week (applied once every three days)
+- Urea: 5.0 grams from the 15th week to the 24th week (applied once every three days)
+- Muriate of Potash: 4.5 grams from the 15th
+--------------------------------------------------
+Question: can you say how much fertilizers require for the 33 weeks banana plant
+Answer: For a 33rd week banana plant, the recommended dose of fertilizers per plant through drip irrigation is 5.0 grams of Urea and 4.7 grams of Muriate of Potash. This recommendation is applicable from the 31st week to the 35th week, after bunch formation.
+--------------------------------------------------
+Question: Banana varities
+Answer: One variety of banana mentioned in the document is Karpoora Chekkerakeli. This variety grows up to about 2.5-3 meters in height and is prone to falling due to winds.
+--------------------------------------------------
+Question: will RCB wins IPL 2025
+Answer: The document does not contain any information about the RCB (Royal Challengers Bangalore) team or the IPL (Indian Premier League) in 2025. Therefore, I cannot provide an answer regarding RCB's potential wins in IPL 2025 based on the given passages.
+--------------------------------------------------
+Question: can you today date
+Answer: The document does not provide a specific date.
+--------------------------------------------------
+Question: tell me more about banana
+Answer: Banana is one of the important fruits cultivated in the tropics. India leads the world in both the area and yield of banana cultivation. In Andhra Pradesh, banana is grown on approximately 99,372 hectares with a production of 5.8 million tonnes, making it the leading producer in the state. It is primarily grown in districts such as East Godavari, West Godavari, Kadapa, Anantapuram, Guntur, Kurnool, Vizianagaram, Krishna, and Srikakulam. Banana thrives in a tropical climate with an average temperature between 25-30 degrees Celsius, and the temperature should not fall below 15 degrees Celsius during winter. There are various varieties of bananas, such as Karpoora Chekkerakeli, which is an important indigenous variety that grows up to about 2.5-3 meters in height and is prone to falling in strong winds. To promote growth and prevent regrowth of banana plants, large suckers should be dug out along with a small portion of the rhizome. Earthing up the base of the plant 6-8 months after planting also helps in strong growth. For quality bunch yield, covering the bunches with 2% perforated white transparent polythene bags can increase fruit size, enhance their appearance, and improve quality for export.
+--------------------------------------------------
